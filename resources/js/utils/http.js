@@ -1,3 +1,3 @@
 export const HTTP = {
-    baseURL: `http://localhost/technical-test/`
+    baseURL: `http://localhost/ois-project-master/`
 };

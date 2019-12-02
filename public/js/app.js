@@ -81227,7 +81227,7 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vuex__WEBPACK_IMPORTED_MODULE_1__
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "HTTP", function() { return HTTP; });
 var HTTP = {
-  baseURL: "http://localhost/technical-test/"
+  baseURL: "http://localhost/ois-project/"
 };
 
 /***/ }),
