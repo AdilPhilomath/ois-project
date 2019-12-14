@@ -1,4 +1,4 @@
-import { HTTP } from "../../../../../technical-test/resources/js/utils/http";
+import { HTTP } from "../../utils/http";
 
 const state = {
     bank_account: [],
